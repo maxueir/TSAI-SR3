@@ -7,6 +7,7 @@ Le projet est structuré autour d'un **Notebook Jupyter (Colab)** qui automatise
 ## Crédits
 
 **GitHub utilisé** : https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement.git
+
 **Papier de référence** : https://arxiv.org/pdf/2104.07636
 
 ## Description du Pipeline
