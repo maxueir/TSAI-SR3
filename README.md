@@ -4,6 +4,11 @@ Ce dépôt contient le pipeline d'inférence pour le projet **TSAI-SR3**. Il s'a
 
 Le projet est structuré autour d'un **Notebook Jupyter (Colab)** qui automatise l'installation de l'environnement, la récupération des poids pré-entraînés et la génération d'images haute fidélité.
 
+## Crédits
+
+**GitHub utilisé** : https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement.git
+**Papier de référence** : https://arxiv.org/pdf/2104.07636
+
 ## Description du Pipeline
 
 Le fichier principal .ipynb orchestre les étapes suivantes :
