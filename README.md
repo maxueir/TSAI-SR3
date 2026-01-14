@@ -20,7 +20,7 @@ Le fichier principal .ipynb orchestre les étapes suivantes :
 * **Accélération Matérielle** : GPU requis pour l'inférence (utilisation de cuda).
 * **Python** : 3.x
 
-## Guide d'Utilisation Rapide
+## Guide d'Utilisation
 
 ### 1. Lancement du Notebook
 Ouvrez le fichier SR3.ipynb dans Google Colab ou en local.
